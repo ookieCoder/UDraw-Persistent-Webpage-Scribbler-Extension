@@ -1,6 +1,6 @@
 # UDraw Extension — Persistent Webpage Scribbler
 
-A lightweight Chrome extension that enables persistent scribbling and drawing on webpages.
+A lightweight browser extension that enables persistent scribbling and drawing on webpages.
 
 This extension injects drawing tools into web pages so users can sketch, and visually mark content across sessions. Drawings remain persistent across page reloads until cleared.
 
@@ -12,7 +12,7 @@ This extension injects drawing tools into web pages so users can sketch, and vis
 - Use freehand drawing tools directly in-browser
 - Persist drawn annotations across reloads
 - Simple and minimal UI
-- Runs as an installable Chrome extension
+- Runs as an installable browser extension
 
 ## Installation
 
